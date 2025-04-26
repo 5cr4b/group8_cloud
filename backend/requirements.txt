@@ -6,4 +6,4 @@ psycopg2-binary>=2.9.0,<2.10.0
 python-jose[cryptography]>=3.3.0,<3.4.0
 passlib[bcrypt]>=1.7.0,<1.8.0
 python-multipart>=0.0.5,<0.1.0
-mangum>=0.17.0,<0.18.0
+mangum>=0.17.0,<0.20.0
